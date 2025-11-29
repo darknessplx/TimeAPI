@@ -37,7 +37,7 @@ version: 1.0.0
 authors:
   - darknessplx
 api: 5.0.0
-main: src/darknessplx/TimeAPI/TimeManager.php
+main: darknessplx\TimeAPI\TimeManager.php
 ```
 
 This allows Poggit to recognize your virion and build it for PocketMine-MP automatically.  
