@@ -1,0 +1,10 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/darknessplx/TimeAPI
+build-by-default: true
+branches:
+- main
+projects:
+  TimeAPI:
+    path: ""
+    model: virion
+    type: library
+...
