@@ -1,5 +1,5 @@
 name: TimeAPI
 version: 1.0.0
-author: DarknessPL
+author: darknessplx
 api: 5.0.0
-main: src/DarknessPL/TimeAPI/TimeManager.php
+main: src/darknessplx/TimeAPI/TimeManager.php
