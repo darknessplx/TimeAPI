@@ -35,9 +35,9 @@ To deploy **TimeAPI** to Poggit, include the following in your `.poggit.yml` at 
 name: TimeAPI
 version: 1.0.0
 authors:
-  - DarknessPL
+  - darknessplx
 api: 5.0.0
-main: src/DarknessPL/TimeAPI/TimeManager.php
+main: src/darknessplx/TimeAPI/TimeManager.php
 ```
 
 This allows Poggit to recognize your virion and build it for PocketMine-MP automatically.  
@@ -52,7 +52,7 @@ This allows Poggit to recognize your virion and build it for PocketMine-MP autom
 ## 🧩 Usage Example
 
 ```php
-use DarknessPL\TimeAPI\TimeManager;
+use darknessplx\TimeAPI\TimeManager;
 
 public function onEnable(): void {
     // Set timezone (country)
