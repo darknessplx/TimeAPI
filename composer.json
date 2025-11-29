@@ -1,0 +1,16 @@
+{
+  "name": "darknessplx\timeapi",
+  "require": {
+    "pocketmine/pocketmine-mp": "^5.0.0",
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "classmap": ["src/"]
+  },
+  "extra": {
+    "virion": {
+      "spec": "3.1",
+      "namespace-root": "darknessplx\\TimeAPI"
+    }
+  }
+}
